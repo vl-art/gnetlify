@@ -1,5 +1,6 @@
 backend:
-  name: test-repo
+  name: github
+  repo: vl-art/gnetlify
 
 media_folder: static/assets
 collections: 
