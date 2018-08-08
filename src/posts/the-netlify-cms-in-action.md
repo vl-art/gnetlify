@@ -16,13 +16,9 @@ Content is stored in your Git repository alongside your code for easier versioni
 
 Netlify CMS is built as a single-page React app. Create custom-styled previews, UI widgets, and editor plugins or add backends to support different Git platform APIs.
 
-![Editor-friendly user interface](/static/assets/001.svg)
-
 ## Editor-friendly user interface
 
 The web-based app includes rich-text editing, real-time preview, and drag-and-drop media uploads.
-
-![Intuitive workflow](/static/assets/002.svg)
 
 ## Intuitive workflow for content teams
 
