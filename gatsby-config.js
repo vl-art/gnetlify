@@ -4,13 +4,20 @@ module.exports = {
     desc: 'A new Blog'
   },
   plugins: ['gatsby-plugin-react-helmet', 
-  'gatsby-plugin-styled-components', 
-  {
-    resolve: 'gatsby-source-filesystem', 
-    options: {
-      name: "img",
-      path: `${__dirname}/src/images`
-    }
+            'gatsby-plugin-styled-components', 
+            {
+            resolve: 'gatsby-source-filesystem', 
+            options: {
+                name: "img",
+                path: `${__dirname}/src/images`
+              }
+            },
+            {
+            resolve: 'gatsby-source-filesystem', 
+            options: {
+                name: "img",
+                path: `${__dirname}/static/assets`
+              }
             },
             {
               resolve: 'gatsby-source-filesystem', 
