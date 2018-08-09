@@ -19,7 +19,7 @@ Netlify CMS is built as a single-page React app. Create custom-styled previews, 
 
 ## Editor-friendly user interface
 
-![Editor-friendly user interface](/assets/001.svg)
+<p text-align="center">![Editor-friendly user interface](/assets/001.svg)</p>
 
 The web-based app includes rich-text editing, real-time preview, and drag-and-drop media uploads.
 
