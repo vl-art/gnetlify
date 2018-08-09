@@ -1,7 +1,7 @@
 ---
 title: The Netlify CMS in action
 date: '2018-08-08'
-image: /static/assets/001.svg
+image: /assets/001.svg
 ---
 # Get started
 
