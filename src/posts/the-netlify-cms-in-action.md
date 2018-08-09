@@ -7,7 +7,7 @@ image: /assets/001.svg
 
 ## Static + content management = ♥
 
-Get the speed, security, and scalability of a static site, while still providing a convenient editing interface for content.
+-> Get the speed, security, and scalability of a static site, while still providing a convenient editing interface for content. <-
 
 ## An integrated part of your Git workflow
 
@@ -19,11 +19,12 @@ Netlify CMS is built as a single-page React app. Create custom-styled previews, 
 
 ## Editor-friendly user interface
 
-<p text-align="center">![Editor-friendly user interface](/assets/001.svg)</p>
+<p text-align="center">!\\[Editor-friendly user interface](/assets/001.svg)</p>
 
 The web-based app includes rich-text editing, real-time preview, and drag-and-drop media uploads.
 
 <center>
+
 ## Intuitive workflow for content teams
 
 ![Intuitive workflow for content teams](/assets/002.svg)
@@ -32,8 +33,6 @@ Writers and editors can easily manage content from draft to review to publish ac
 
 ## Intuitive workflow for content teams
 
-<center>
 ![Intuitive workflow for content teams](/assets/002.svg)
-</center>
 
 Writers and editors can easily manage content from draft to review to publish across any number of custom content types.
